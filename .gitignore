@@ -1,0 +1,51 @@
+# --------------------
+# JetBrains Rider / IntelliJ IDEA
+# --------------------
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+.idea.ConsoleTodo/
+
+# --------------------
+# OS-specific files (Fedora/Linux)
+# --------------------
+.Trash-*
+.metadata/
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+
+# --------------------
+# Build / generated folders
+# --------------------
+bin/
+build/
+target/
+
+# --------------------
+# Node / npm (if any)
+# --------------------
+node_modules/
+
+# --------------------
+# Python (if any)
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Other IDEs (if you ever open in another JetBrains IDE)
+# --------------------
+*.idea_modules/
+*.gradle/
+*.vscode/

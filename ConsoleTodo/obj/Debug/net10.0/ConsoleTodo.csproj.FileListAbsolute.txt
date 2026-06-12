@@ -1,0 +1,14 @@
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/bin/Debug/net10.0/ConsoleTodo
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/bin/Debug/net10.0/ConsoleTodo.deps.json
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/bin/Debug/net10.0/ConsoleTodo.runtimeconfig.json
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/bin/Debug/net10.0/ConsoleTodo.dll
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/bin/Debug/net10.0/ConsoleTodo.pdb
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.GeneratedMSBuildEditorConfig.editorconfig
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.AssemblyInfoInputs.cache
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.AssemblyInfo.cs
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.csproj.CoreCompileInputs.cache
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.dll
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/refint/ConsoleTodo.dll
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.pdb
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ConsoleTodo.genruntimeconfig.cache
+/home/larsonc/RiderProjects/ConsoleTodo/ConsoleTodo/obj/Debug/net10.0/ref/ConsoleTodo.dll
